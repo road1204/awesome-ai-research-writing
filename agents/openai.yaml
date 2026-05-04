@@ -1,0 +1,3 @@
+display_name: Awesome AI Research Writing
+short_description: Prompt library and workflows for academic paper writing.
+default_prompt: Help me improve this research writing using the relevant workflow from the reference.
